@@ -2,7 +2,7 @@
 A compilation of my past projects/ projects I've worked on. All of my current projects have been made as example/learning projects and have not been launched onto a public server.
 The front-end in most of the projects is pretty barebones. I am mostly a back-end developer and the front-end in the projects is there just to test functionalities. 
 
-# Project 1: Revolut-like WEB API
+# [Project 1: Revolut-like WEB API](https://github.com/JVult/RevolutWannabe)
 * Creating a WEB API for a Revolut-like banking company.
 * The project handles interest using background services.
 * The project allows users to make transactions and handles them.
@@ -12,7 +12,7 @@ The front-end in most of the projects is pretty barebones. I am mostly a back-en
 * The project uses MVC and a Repository model. All of the important classes in the project have a private inbuild Update method.
 * Used technology - C#, ASP.Net 6, Swagger
  
-# Project 2: "Top Tire"
+# [Project 2: "Top Tire"](https://github.com/JVult/TopTire)
 * Creating a WEB Store for a wheel/tire selling company.
 * The project handles users, guests and administrators and has appropriate restrictions to said roles.
 * The project displays a catalogue of wheel entries that have a name, price, available amount and a picture. The project allows administrators to create custom entries.
@@ -21,7 +21,7 @@ The front-end in most of the projects is pretty barebones. I am mostly a back-en
 * The project also contains a "wheel repair" option that allows users to book repairs on wheels they've already bought.
 * Used technology - C#, ASP.Net 6 (MVC model), HTML, CSS, JavaScript.
 
-# Project 3: Betting Website
+# [Project 3: Betting Website](https://github.com/zyphqr/BinaryOptions) - **Currently behind on commits** 
 * Creating a gambling website that is based on currency-to-currency ratio courses and changes.
 * The project handles users, guests and administrators and has appropriate restrictions to said roles.
 * The project's database contains currency pairs which are guided by an inbuilt algorithm which changes their value and saves the new value in the database as a new entry.
